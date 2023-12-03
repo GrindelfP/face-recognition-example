@@ -1,2 +1,4 @@
-# face-recognition-example
+= Face recognition example = 
+
+== Description ==
 Excericise on FER library for facial recognition.
