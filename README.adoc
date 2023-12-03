@@ -1,4 +1,12 @@
 = Face recognition example = 
 
 == Description ==
-Excericise on FER library for facial recognition.
+Exercise on FER library for facial recognition.
+The task was simply to use the FER library to recognize emotions in 10 author's photos.
+
+I've tried to make emotion expressions look natural.
+
+One of my ideas was not to stick only to 6 categories of emotions used by FER, but also to give the model some different, such as sleepy, for example.
+
+== Results ==
+The model showed good results on the author's photos and all it's mistakes look as if they are based on lack of acting skills, not on some model's internal mistakes. However, the model seems not to be able to recognize mild emotions.
